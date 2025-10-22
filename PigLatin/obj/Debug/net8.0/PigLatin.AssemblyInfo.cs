@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PigLatin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75b3cf5ce35aa602a3106cb71b7f42e04a23c87b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b0a026da41354eb65e520c89537b1c0cae26ce3")]
 [assembly: System.Reflection.AssemblyProductAttribute("PigLatin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PigLatin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
